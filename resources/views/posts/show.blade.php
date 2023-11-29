@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Posts</title>
         <!--Fonts-->
-        <linl href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet"></linl>
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">  
     </head>
     <body>
         <h1 class="title">
